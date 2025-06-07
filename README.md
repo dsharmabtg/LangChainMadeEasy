@@ -64,7 +64,7 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/LangChainMadeEasy.git
+git clone https://github.com/dsharmabtg/LangChainMadeEasy.git
 cd LangChainMadeEasy
 ```
 
