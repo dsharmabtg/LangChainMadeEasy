@@ -14,9 +14,9 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 
 ### 🎨 LangChain Prompt Engineering
 2. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/02_LangChain_ImageGenerationTool.ipynb">`02_LangChain_ImageGenerationTool.ipynb`</a>
-3. `03_LangChain_PromptTemplate.ipynb`
-4. `04_LangChain_ChatPromptTemplate.ipynb`
-5. `05_LangChain_FewshotPromptTemplate.ipynb`
+3. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/03_LangChain_PromptTemplate.ipynb">`03_LangChain_PromptTemplate.ipynb`</a>
+4. <a href="">`04_LangChain_ChatPromptTemplate.ipynb`</a>
+5. <a href="">`05_LangChain_FewshotPromptTemplate.ipynb`</a>
 
 ### 🔗 LangChain Core Chains
 6. `06_LangChain_GeneralPurposeChain.ipynb`
