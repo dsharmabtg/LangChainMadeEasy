@@ -10,7 +10,7 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 ## 📘 Notebook Index
 
 ### 🌱 Getting Started
-1. `01_MyFirstLangChainApp.ipynb` — Your first LangChain application
+1. `<a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/01_MyFirstLangChainApp.ipynb">01_MyFirstLangChainApp.ipynb</a>` — Your first LangChain application
 
 ### 🎨 LangChain Prompt Engineering
 2. `02_LangChain_ImageGenerationTool.ipynb`
