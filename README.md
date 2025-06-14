@@ -19,9 +19,9 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 5. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/05_LangChain_FewshotPromptTemplate.ipynb">`05_LangChain_FewshotPromptTemplate.ipynb`</a>
 
 ### 🔗 LangChain Core Chains
-6. `06_LangChain_GeneralPurposeChain.ipynb`
-7. `07_LangChain_UtilityChain.ipynb`
-8. `08_LangChain_SequentialChain.ipynb`
+6. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/06_LangChain_GeneralPurposeChain.ipynb">`06_LangChain_GeneralPurposeChain.ipynb`</a>
+7. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/07_LangChain_UtilityChain.ipynb">`07_LangChain_UtilityChain.ipynb`</a>
+8. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/08_LangChain_SequentialChain.ipynb">`08_LangChain_SequentialChain.ipynb`</a>
 
 ### 🧩 LangChain Expression Language (LECL)
 9. `09_LangChain_LECL_PipeOperator.ipynb`
