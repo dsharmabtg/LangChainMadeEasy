@@ -24,39 +24,39 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 8. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/08_LangChain_SequentialChain.ipynb">`08_LangChain_SequentialChain.ipynb`</a>
 
 ### 🧩 LangChain Expression Language (LECL)
-9. `09_LangChain_LECL_PipeOperator.ipynb`
-10. `10_LangChain_LECL_Runnables.ipynb`
-11. `11_LangChain_LECL_ControllingExecutionFlow.ipynb`
-12. `12_LangChain_LECL_DynamicRouting.ipynb`
+9. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/09_LangChain_LECL_PipeOperator.ipynb">`09_LangChain_LECL_PipeOperator.ipynb`</a>
+10. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/10_LangChain_LECL_Runnables.ipynb">`10_LangChain_LECL_Runnables.ipynb`</a>
+11. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/11_LangChain_LECL_ControllingExecutionFlow.ipynb">`11_LangChain_LECL_ControllingExecutionFlow.ipynb`</a>
+12. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/12_LangChain_LECL_DynamicRouting.ipynb">`12_LangChain_LECL_DynamicRouting.ipynb`</a>
 
 ### 🧾 Output Parsers
-13. `13_LangChain_StringOutputParser.ipynb`
-14. `14_LangChain_StructuredOutputParser.ipynb`
-15. `15_LangChain_CommaSeparatedListOutputParser.ipynb`
-16. `16_LangChain_DateTimeParser.ipynb`
+13. <a href="">`13_LangChain_StringOutputParser.ipynb`</a>
+14. <a href="">`14_LangChain_StructuredOutputParser.ipynb`</a>
+15. <a href="">`15_LangChain_CommaSeparatedListOutputParser.ipynb`</a>
+16. <a href="">`16_LangChain_DateTimeParser.ipynb`</a>
 
 ### 🧠 LangChain Memory
-17. `17_LangChain_CoversationBufferMemory.ipynb`
-18. `18_LangChain_CoversationBufferWindowMemory.ipynb`
-19. `19_LangChain_CoversationSummaryMemory.ipynb`
-20. `20_LangChain_RunnablewithMessageHistory.ipynb`
+17. <a href="">`17_LangChain_CoversationBufferMemory.ipynb`</a>
+18. <a href="">`18_LangChain_CoversationBufferWindowMemory.ipynb`</a>
+19. <a href="">`19_LangChain_CoversationSummaryMemory.ipynb`</a>
+20. <a href="">`20_LangChain_RunnablewithMessageHistory.ipynb`</a>
 
 ### 📚 Retrieval Augmented Generation (RAG)
-21. `21_LangChain_RAG_ReadingDocuments.ipynb`
-22. `22_LangChain_RAG_SplittingDocuments_Chunking.ipynb`
-23. `23_LangChain_RAG_Embeddings.ipynb`
-24. `24_LangChain_RAG_StoringInVectorDatabase.ipynb`
-25. `25_LangChain_RAG_CompleteApplication.ipynb`
+21. <a href="">`21_LangChain_RAG_ReadingDocuments.ipynb`</a>
+22. <a href="">`22_LangChain_RAG_SplittingDocuments_Chunking.ipynb`</a>
+23. <a href="">`23_LangChain_RAG_Embeddings.ipynb`</a>
+24. <a href="">`24_LangChain_RAG_StoringInVectorDatabase.ipynb`</a>
+25. <a href="">`25_LangChain_RAG_CompleteApplication.ipynb`</a>
 
 ### 🛠️ Tools & Agents
-26. `26_LangChain_Tools_and_Agents_CreatingCustomTools.ipynb`
-27. `27_LangChain_Tools_and_Agents_InBuiltTools.ipynb`
-28. `28_LangChain_Tools_and_Agents_UsingAgent.ipynb`
-29. `29_LangChain_Tools_and_Agents_AgentWithMemory.ipynb`
-30. `30_LangChain_Tools_and_Agents_MonitoringWithLangSmith.ipynb`
+26. <a href="">`26_LangChain_Tools_and_Agents_CreatingCustomTools.ipynb`</a>
+27. <a href="">`27_LangChain_Tools_and_Agents_InBuiltTools.ipynb`</a>
+28. <a href="">`28_LangChain_Tools_and_Agents_UsingAgent.ipynb`</a>
+29. <a href="">`29_LangChain_Tools_and_Agents_AgentWithMemory.ipynb`</a>
+30. <a href="">`30_LangChain_Tools_and_Agents_MonitoringWithLangSmith.ipynb`</a>
 
 ### 🌐 Deployment
-31. `31_LangChain_Streamlit_GenAIApp.ipynb` — Deploying a GenAI app with Streamlit
+31. <a href="">`31_LangChain_Streamlit_GenAIApp.ipynb`</a> — Deploying a GenAI app with Streamlit
 
 ---
 
