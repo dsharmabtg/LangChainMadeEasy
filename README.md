@@ -30,10 +30,10 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 12. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/12_LangChain_LECL_DynamicRouting.ipynb">`12_LangChain_LECL_DynamicRouting.ipynb`</a>
 
 ### 🧾 Output Parsers
-13. <a href="">`13_LangChain_StringOutputParser.ipynb`</a>
-14. <a href="">`14_LangChain_StructuredOutputParser.ipynb`</a>
-15. <a href="">`15_LangChain_CommaSeparatedListOutputParser.ipynb`</a>
-16. <a href="">`16_LangChain_DateTimeParser.ipynb`</a>
+13. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/13_LangChain_StringOutputParser.ipynb">`13_LangChain_StringOutputParser.ipynb`</a>
+14. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/14_LangChain_StructuredOutputParser.ipynb">`14_LangChain_StructuredOutputParser.ipynb`</a>
+15. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/15_LangChain_CommaSeparatedListOutputParser.ipynb">`15_LangChain_CommaSeparatedListOutputParser.ipynb`</a>
+16. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/16_LangChain_DateTimeParser.ipynb">`16_LangChain_DateTimeParser.ipynb`</a>
 
 ### 🧠 LangChain Memory
 17. <a href="">`17_LangChain_CoversationBufferMemory.ipynb`</a>
