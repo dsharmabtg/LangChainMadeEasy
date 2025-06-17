@@ -36,10 +36,10 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 16. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/16_LangChain_DateTimeParser.ipynb">`16_LangChain_DateTimeParser.ipynb`</a>
 
 ### 🧠 LangChain Memory
-17. <a href="">`17_LangChain_CoversationBufferMemory.ipynb`</a>
-18. <a href="">`18_LangChain_CoversationBufferWindowMemory.ipynb`</a>
-19. <a href="">`19_LangChain_CoversationSummaryMemory.ipynb`</a>
-20. <a href="">`20_LangChain_RunnablewithMessageHistory.ipynb`</a>
+17. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/17_LangChain_CoversationBufferMemory.ipynb">`17_LangChain_CoversationBufferMemory.ipynb`</a>
+18. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/18_LangChain_CoversationBufferWindowMemory.ipynb">`18_LangChain_CoversationBufferWindowMemory.ipynb`</a>
+19. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/19_LangChain_CoversationSummaryMemory.ipynb">`19_LangChain_CoversationSummaryMemory.ipynb`</a>
+20. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/20_LangChain_RunnablewithMessageHistory.ipynb">`20_LangChain_RunnablewithMessageHistory.ipynb`</a>
 
 ### 📚 Retrieval Augmented Generation (RAG)
 21. <a href="">`21_LangChain_RAG_ReadingDocuments.ipynb`</a>
