@@ -42,11 +42,11 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 20. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/20_LangChain_RunnablewithMessageHistory.ipynb">`20_LangChain_RunnablewithMessageHistory.ipynb`</a>
 
 ### 📚 Retrieval Augmented Generation (RAG)
-21. <a href="">`21_LangChain_RAG_ReadingDocuments.ipynb`</a>
-22. <a href="">`22_LangChain_RAG_SplittingDocuments_Chunking.ipynb`</a>
-23. <a href="">`23_LangChain_RAG_Embeddings.ipynb`</a>
-24. <a href="">`24_LangChain_RAG_StoringInVectorDatabase.ipynb`</a>
-25. <a href="">`25_LangChain_RAG_CompleteApplication.ipynb`</a>
+21. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/21_LangChain_RAG_ReadingDocuments.ipynb">`21_LangChain_RAG_ReadingDocuments.ipynb`</a>
+22. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/22_LangChain_RAG_SplittingDocuments_Chunking.ipynb">`22_LangChain_RAG_SplittingDocuments_Chunking.ipynb`</a>
+23. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/23_LangChain_RAG_Embeddings.ipynb">`23_LangChain_RAG_Embeddings.ipynb`</a>
+24. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/24_LangChain_RAG_StoringInVectorDatabase.ipynb">`24_LangChain_RAG_StoringInVectorDatabase.ipynb`</a>
+25. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/25_LangChain_RAG_CompleteApplication.ipynb">`25_LangChain_RAG_CompleteApplication.ipynb`</a>
 
 ### 🛠️ Tools & Agents
 26. <a href="">`26_LangChain_Tools_and_Agents_CreatingCustomTools.ipynb`</a>
