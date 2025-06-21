@@ -52,7 +52,7 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 26. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/26_LangChain_Tools_and_Agents_CreatingCustomTools.ipynb">`26_LangChain_Tools_and_Agents_CreatingCustomTools.ipynb`</a>
 27. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/27_LangChain_Tools_and_Agents_InBuiltTools.ipynb">`27_LangChain_Tools_and_Agents_InBuiltTools.ipynb`</a>
 28. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/28_LangChain_Tools_and_Agents_UsingAgent.ipynb">`28_LangChain_Tools_and_Agents_UsingAgent.ipynb`</a>
-29. <a href="">`29_LangChain_Tools_and_Agents_AgentWithMemory.ipynb`</a>
+29. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/29_LangChain_Tools_and_Agents_AgentWithMemory.ipynb">`29_LangChain_Tools_and_Agents_AgentWithMemory.ipynb`</a>
 30. <a href="">`30_LangChain_Tools_and_Agents_MonitoringWithLangSmith.ipynb`</a>
 
 ### 🌐 Deployment
