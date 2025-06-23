@@ -56,7 +56,7 @@ This repository is a hands-on companion with 30+ Jupyter notebooks demonstrating
 30. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/30_LangChain_Tools_and_Agents_MonitoringWithLangSmith.ipynb">`30_LangChain_Tools_and_Agents_MonitoringWithLangSmith.ipynb`</a>
 
 ### 🌐 Deployment
-31. <a href="">`31_LangChain_Streamlit_GenAIApp.ipynb`</a> — Deploying a GenAI app with Streamlit
+31. <a href="https://github.com/dsharmabtg/LangChainMadeEasy/blob/master/31_LangChain_Streamlit_GenAIApp.ipynb">`31_LangChain_Streamlit_GenAIApp.ipynb`</a> — Deploying a GenAI app with Streamlit (streamlit_genai_app.py)
 
 ---
 
